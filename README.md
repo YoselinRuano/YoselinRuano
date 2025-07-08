@@ -27,6 +27,7 @@ https://github.com/EdwinEcheverri/Destileria1823PI.git
 
 - **LinkedIn:** https://www.linkedin.com/in/yoselin-ruano-cortes-083aba351/
 - **Correo:** yosruano13@gmail.com
+- 📍 Resido en la Ciudad de México, México.
 
 ✨ **Siempre lista para nuevos retos y oportunidades para seguir creciendo como Analista de Datos.**
 <!--
