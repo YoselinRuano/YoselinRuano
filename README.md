@@ -1,4 +1,4 @@
-## Hola 👋, Soy  Yoselin Ruano Cortes 
+## Hola 👋 Soy,  Yoselin Ruano Cortes 
 
 Analista de datos con formacion en logistica y transporte 
 
